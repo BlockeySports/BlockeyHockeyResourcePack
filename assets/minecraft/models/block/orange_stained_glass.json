@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"texture_size": [16, 32],
 	"textures": {
@@ -7,7 +6,7 @@
 		"1": "block/board_glass",
 		"3": "block/bench_corner_glass3",
 		"5": "block/bench_corner_glass_4",
-		"particle": "block/bench_glass"
+		"particle": "block/board_glass"
 	},
 	"elements": [
 		{
