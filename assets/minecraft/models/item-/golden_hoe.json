@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/golden_hoe"
+    },
+	"overrides": [
+		{    
+			"predicate": {"damage": 0.25, "damaged":1},
+			"model": "item/golden_hoe1"
+		}
+	]
+}

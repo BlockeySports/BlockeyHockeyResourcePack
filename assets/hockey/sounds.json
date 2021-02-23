@@ -1,0 +1,56 @@
+{
+    "post": {
+        "subtitle": "Post rings",
+        "sounds": [
+            {
+                "name": "hockey:misc/post",
+                "stream": false
+            }
+        ]
+    },
+    "buzzer": {
+        "subtitle": "Period end buzzer",
+        "sounds": [
+            {
+                "name": "hockey:misc/buzzer",
+                "stream": true
+            }
+        ]
+    },
+    "announcer.first_period": {
+        "subtitle": "Final minute announcement",
+        "sounds": [
+            {
+                "name": "hockey:announcer/first_period",
+                "stream": true
+            }
+        ]
+    },
+    "announcer.second_period": {
+        "subtitle": "Final minute announcement",
+        "sounds": [
+            {
+                "name": "hockey:announcer/second_period",
+                "stream": true
+            }
+        ]
+    },
+    "announcer.third_period": {
+        "subtitle": "Final minute announcement",
+        "sounds": [
+            {
+                "name": "hockey:announcer/third_period",
+                "stream": true
+            }
+        ]
+    },
+    "announcer.overtime_period": {
+        "subtitle": "Final minute announcement",
+        "sounds": [
+            {
+                "name": "hockey:announcer/overtime_period",
+                "stream": true
+            }
+        ]
+    }
+}

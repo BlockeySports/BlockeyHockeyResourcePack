@@ -1,0 +1,12 @@
+{
+	"parent": "item/hockey_stick",
+	"textures": {
+		"layer0": "item/stick/violet"
+	},
+	"overrides": [
+		{    
+			"predicate": {"damage": 0.25, "damaged":1},
+			"model": "item/iron_shovel_broken"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/hockey_stick_broken",
+	"textures": {
+		"layer0": "item/stick/green_broken"
+	}
+}

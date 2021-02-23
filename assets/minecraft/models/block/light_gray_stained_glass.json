@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [16, 32],
+	"textures": {
+		"1": "block/board_glass",
+		"4": "block/bench_corner_glass_4",
+		"particle": "block/bench_corner_glass1"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 0],
+			"to": [9, 16, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 1]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 1]},
+			"faces": {
+				"east": {"uv": [0, 0, 2, 8], "texture": "#4"},
+				"south": {"uv": [0, 0, 2, 8], "texture": "#4"},
+				"west": {"uv": [0, 0, 2, 8], "texture": "#4"}
+			}
+		}
+	]
+}
