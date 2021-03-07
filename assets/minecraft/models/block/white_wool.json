@@ -1,7 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/ice",
+		"1": "block/ice_white",
 		"particle": "block/goal_line"
 	},
 	"elements": [
