@@ -1,6 +1,7 @@
 {
 	"textures": {
-		"1": "block/ice_white"
+		"1": "block/ice_white",
+		"particle": "block/ice_white"
 	},
 	"elements": [
 		{
