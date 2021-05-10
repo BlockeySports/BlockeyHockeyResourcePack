@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "block/goalpost_white",
-		"particle": "block/goalpost_white"
+		"0": "hockey:net/bar",
+		"particle": "hockey:net/bar"
 	},
 	"elements": [
 		{

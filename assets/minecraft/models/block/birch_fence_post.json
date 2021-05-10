@@ -1,9 +1,8 @@
-{
-	"credit": "Made with Blockbench",
+{
 	"parent": "minecraft:block/fence_post",
 	"textures": {
-		"0": "block/goalpost",
-		"particle": "block/goalpost"
+		"0": "hockey:net/post",
+		"particle": "hockey:net/post"
 	},
 	"elements": [
 		{

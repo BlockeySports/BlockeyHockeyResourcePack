@@ -1,5 +1,5 @@
 {
     "textures": {
-        "particle": "block/goalpost_white"
+        "particle": "hockey:net/bar"
     }
 }

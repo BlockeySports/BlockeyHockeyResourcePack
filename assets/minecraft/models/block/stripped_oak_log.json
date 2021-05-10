@@ -1,7 +1,6 @@
 {
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "minecraft:block/red_board_top",
-    "side": "minecraft:block/red_board"
-  }
+	"parent": "minecraft:block/board",
+	"textures": {
+		"color": "hockey:board/red"
+	}
 }

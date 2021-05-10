@@ -2,11 +2,11 @@
 	"ambientocclusion": false,
 	"texture_size": [16, 32],
 	"textures": {
-		"0": "block/bench_corner_glass1",
-		"1": "block/board_glass",
-		"3": "block/bench_corner_glass3",
-		"5": "block/bench_corner_glass_4",
-		"particle": "block/board_glass"
+		"0": "hockey:glass/corner1",
+		"1": "hockey:glass/pane",
+		"3": "hockey:glass/corner3",
+		"5": "hockey:glass/corner4",
+		"particle": "hockey:glass/pane"
 	},
 	"elements": [
 		{

@@ -1,11 +1,10 @@
-{
-	"credit": "Made with Blockbench",
+{
 	"ambientocclusion": false,
 	"texture_size": [16, 32],
 	"textures": {
-		"1": "block/board_glass",
-		"4": "block/bench_corner_glass_4",
-		"particle": "block/bench_corner_glass1"
+		"1": "hockey:glass/pane",
+		"4": "hockey:glass/corner4",
+		"particle": "hockey:glass/corner1"
 	},
 	"elements": [
 		{

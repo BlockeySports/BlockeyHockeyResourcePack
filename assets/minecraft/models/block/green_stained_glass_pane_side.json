@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/template_glass_pane_side",
   "textures": {
-    "pane": "minecraft:block/board_glass_stantion",
-    "edge": "minecraft:block/empty"
+    "pane": "hockey:glass/stanchion",
+    "edge": "hockey:misc/empty"
   }
 }

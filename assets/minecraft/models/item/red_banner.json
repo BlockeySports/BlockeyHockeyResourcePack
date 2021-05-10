@@ -1,7 +1,7 @@
 {
     "parent": "item/stanchion",
 	"textures": {
-		"0": "block/stanchion_red",
-		"particle": "block/stanchion_red"
+		"0": "hockey:stanchion/red",
+		"particle": "hockey:stanchion/red"
 	}
 }

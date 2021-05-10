@@ -1,7 +1,7 @@
 {
 	"parent": "item/hockey_stick",
 	"textures": {
-		"layer0": "item/stick/blue"
+		"layer0": "hockey:stick/blue"
 	},
 	"overrides": [
 		{    

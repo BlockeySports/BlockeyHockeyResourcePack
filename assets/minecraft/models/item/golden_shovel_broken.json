@@ -1,6 +1,6 @@
 {
 	"parent": "item/hockey_stick_broken",
 	"textures": {
-		"layer0": "item/stick/cyan_broken"
+		"layer0": "hockey:stick/cyan_broken"
 	}
 }

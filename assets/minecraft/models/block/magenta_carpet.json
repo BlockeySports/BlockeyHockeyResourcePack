@@ -1,8 +1,7 @@
 {
 	"textures": {
-		"1": "block/ice_white",
-		"2": "block/ice_red",
-		"particle": "block/goal_line"
+		"1": "hockey:ice/white",
+		"2": "hockey:ice/red"
 	},
 	"elements": [
 		{

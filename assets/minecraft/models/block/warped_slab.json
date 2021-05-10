@@ -1,9 +1,8 @@
-{
-	"credit": "Made with Blockbench",
+{
 	"parent": "minecraft:block/fence_post",
 	"textures": {
-		"0": "block/netting",
-		"particle": "block/netting"
+		"0": "hockey:net/netting",
+		"particle": "hockey:net/netting"
 	},
 	"elements": [
 		{
