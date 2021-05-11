@@ -1,12 +1,1 @@
-{
-	"parent": "item/hockey_stick",
-	"textures": {
-		"layer0": "hockey:stick/cancer"
-	},
-	"overrides": [
-		{    
-			"predicate": {"damage": 0.25, "damaged":1},
-			"model": "item/iron_hoe_broken"
-		}
-	]
-}
+{"parent":"item/hockey_stick","textures":{"layer0":"hockey:stick/cancer"},"overrides":[{"predicate":{"damage":0.25,"damaged":1},"model":"item/iron_hoe_broken"}]}

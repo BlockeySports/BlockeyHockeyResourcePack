@@ -1,7 +1,1 @@
-{
-	"parent": "item/stanchion",
-	"textures": {
-		"0": "hockey:stanchion/blue",
-		"particle": "hockey:stanchion/blue"
-	}
-}
+{"parent":"item/stanchion","textures":{"0":"hockey:stanchion/blue","particle":"hockey:stanchion/blue"}}

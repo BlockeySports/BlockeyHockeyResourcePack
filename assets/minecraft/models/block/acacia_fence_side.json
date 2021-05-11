@@ -1,6 +1,1 @@
-{
-  "parent": "minecraft:block/fence_post",
-  "textures": {
-    "texture": "hockey:net/post"
-  }
-}
+{"parent":"minecraft:block/fence_post","textures":{"texture":"hockey:net/post"}}
