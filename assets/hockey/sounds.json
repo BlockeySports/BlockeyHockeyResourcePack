@@ -9,10 +9,19 @@
         ]
     },
     "buzzer": {
-        "subtitle": "Period end buzzer",
+        "subtitle": "Period buzzer",
         "sounds": [
             {
                 "name": "hockey:misc/buzzer",
+                "stream": true
+            }
+        ]
+    },
+    "timeout": {
+        "subtitle": "Timeout buzzer",
+        "sounds": [
+            {
+                "name": "hockey:misc/timeout",
                 "stream": true
             }
         ]
@@ -49,6 +58,37 @@
         "sounds": [
             {
                 "name": "hockey:announcer/overtime_period",
+                "stream": true
+            }
+        ]
+    },
+    "ref.whistle": {
+        "subtitle": "Referee whistle",
+        "sounds": [
+            {
+                "name": "hockey:ref/whistle_long",
+                "stream": true
+            },
+            {
+                "name": "hockey:ref/whistle_short",
+                "stream": true
+            }
+        ]
+    },
+    "ref.whistle.short": {
+        "subtitle": "Referee whistle",
+        "sounds": [
+            {
+                "name": "hockey:ref/whistle_short",
+                "stream": true
+            }
+        ]
+    },
+    "ref.whistle.long": {
+        "subtitle": "Referee whistle",
+        "sounds": [
+            {
+                "name": "hockey:ref/whistle_long",
                 "stream": true
             }
         ]
