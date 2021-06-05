@@ -8,20 +8,20 @@
             }
         ]
     },
-    "buzzer": {
+    "buzzer.period": {
         "subtitle": "Period buzzer",
         "sounds": [
             {
-                "name": "hockey:misc/buzzer",
+                "name": "hockey:buzzer/period",
                 "stream": true
             }
         ]
     },
-    "timeout": {
+    "buzzer.timeout": {
         "subtitle": "Timeout buzzer",
         "sounds": [
             {
-                "name": "hockey:misc/timeout",
+                "name": "hockey:buzzer/timeout",
                 "stream": true
             }
         ]
