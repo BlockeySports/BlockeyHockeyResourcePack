@@ -92,5 +92,55 @@
                 "stream": true
             }
         ]
+    },
+    "stick.tap.self": {
+        "subtitle": "Stick tap",
+        "sounds": [
+            {
+                "name": "hockey:stick/self/tap1",
+                "stream": true
+            },
+            {
+                "name": "hockey:stick/self/tap2",
+                "stream": true
+            },
+            {
+                "name": "hockey:stick/self/tap3",
+                "stream": true
+            },
+            {
+                "name": "hockey:stick/self/tap4",
+                "stream": true
+            },
+            {
+                "name": "hockey:stick/self/tap5",
+                "stream": true
+            }
+        ]
+    },
+    "stick.tap.other": {
+        "subtitle": "Stick tap",
+        "sounds": [
+            {
+                "name": "hockey:stick/other/tap1",
+                "stream": true
+            },
+            {
+                "name": "hockey:stick/other/tap2",
+                "stream": true
+            },
+            {
+                "name": "hockey:stick/other/tap3",
+                "stream": true
+            },
+            {
+                "name": "hockey:stick/other/tap4",
+                "stream": true
+            },
+            {
+                "name": "hockey:stick/other/tap5",
+                "stream": true
+            }
+        ]
     }
 }
