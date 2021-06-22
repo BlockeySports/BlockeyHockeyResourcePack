@@ -6,6 +6,13 @@
             "ascent": 8,
             "height": 9,
             "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "hockey:icon/home.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE001"]
         }
     ]
 }
