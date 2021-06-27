@@ -106,6 +106,23 @@
             }
         ]
     },
+    "puck.board": {
+        "subtitle": "Puck hits boards",
+        "sounds": [
+            {
+                "name": "hockey:puck/board1",
+                "stream": true
+            },
+            {
+                "name": "hockey:puck/board2",
+                "stream": true
+            },
+            {
+                "name": "hockey:puck/board3",
+                "stream": true
+            }
+        ]
+    },
     "stick.tap.self": {
         "subtitle": "Stick tap",
         "sounds": [
