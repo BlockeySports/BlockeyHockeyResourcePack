@@ -93,6 +93,19 @@
             }
         ]
     },
+    "puck.glass": {
+        "subtitle": "Puck hits glass",
+        "sounds": [
+            {
+                "name": "hockey:puck/glass1",
+                "stream": true
+            },
+            {
+                "name": "hockey:puck/glass2",
+                "stream": true
+            }
+        ]
+    },
     "stick.tap.self": {
         "subtitle": "Stick tap",
         "sounds": [
