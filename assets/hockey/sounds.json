@@ -119,6 +119,19 @@
             }
         ]
     },
+    "puck.rim": {
+        "subtitle": "Puck hits goal rim",
+        "sounds": [
+            {
+                "name": "hockey:puck/rim1",
+                "stream": true
+            },
+            {
+                "name": "hockey:puck/rim2",
+                "stream": true
+            }
+        ]
+    },
     "stick.tap.self": {
         "subtitle": "Stick tap",
         "sounds": [
