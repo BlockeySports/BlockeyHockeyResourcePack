@@ -1,10 +1,10 @@
 {
     "post": {
-        "subtitle": "Post rings",
+        "subtitle": "Puck rings off goal post",
         "sounds": [
             {
-                "name": "hockey:misc/post",
-                "stream": false
+                "name": "hockey:puck/post",
+                "stream": true
             }
         ]
     },
