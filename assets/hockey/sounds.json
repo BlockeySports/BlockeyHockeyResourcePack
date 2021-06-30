@@ -132,6 +132,23 @@
             }
         ]
     },
+    "puck.mesh": {
+        "subtitle": "Puck hits goal mesh",
+        "sounds": [
+            {
+                "name": "hockey:puck/mesh1",
+                "stream": true
+            },
+            {
+                "name": "hockey:puck/mesh2",
+                "stream": true
+            },
+            {
+                "name": "hockey:puck/mesh3",
+                "stream": true
+            }
+        ]
+    },
     "stick.tap.self": {
         "subtitle": "Stick tap",
         "sounds": [
