@@ -116,6 +116,14 @@
             {
                 "name": "hockey:puck/board2",
                 "stream": true
+            },
+            {
+                "name": "hockey:puck/board3",
+                "stream": true
+            },
+            {
+                "name": "hockey:puck/board4",
+                "stream": true
             }
         ]
     },
