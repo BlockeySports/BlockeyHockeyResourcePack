@@ -1,12 +1,14 @@
-Important Settings:
+# Important Minecraft Settings
+**For the best playing experience, use the following *highly reccommended* Minecraft settings.** <br>
+**The [Optifine](https://optifine.net/downloads) mod is also extremely encouraged.**
 
- 01) Turn Connected Textures OFF
-    a. Options > Video Settings > Quality
- 02) Turn Smooth Lighting OFF
-    a. Options > Video Settings
- 03) OptiFine: Turn OFF Lazy Chunk Loading
-    a. Options > Performance
- 04) Optimal Render Distance: 15
-    a. Options > Video Settings
- 05) Minimum Entity Distance: 200%
-    a. Options > Video Settings > Details
+### Turn Connected Textures OFF
+> Options > Video Settings > Quality
+### Turn Smooth Lighting OFF
+> Options > Video Settings
+### OptiFine: Turn OFF Lazy Chunk Loading
+> Options > Performance
+### Optimal Render Distance: 15
+> Options > Video Settings
+### Minimum Entity Distance: 200%
+> Options > Video Settings > Details
