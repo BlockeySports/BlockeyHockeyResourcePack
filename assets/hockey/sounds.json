@@ -157,6 +157,23 @@
             }
         ]
     },
+    "player.jump_board": {
+        "subtitle": "Player jumps over boards",
+        "sounds": [
+            {
+                "name": "hockey:player/jump_board1",
+                "stream": true
+            },
+            {
+                "name": "hockey:player/jump_board2",
+                "stream": true
+            },
+            {
+                "name": "hockey:player/jump_board3",
+                "stream": true
+            }
+        ]
+    },
     "stick.tap.self": {
         "subtitle": "Stick tap",
         "sounds": [
