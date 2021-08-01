@@ -55,5 +55,7 @@
   "menu.reportBugs": "§7Report Bugs",
   "menu.options": "§eOptions...",
   "menu.shareToLan": "§f\uE002  \uE003  \uE004",
-  "menu.disconnect": "§7Quit Blockey Hockey"
+  "menu.disconnect": "§7Quit Blockey Hockey",
+  "soundCategory.music": "§7Music",
+  "soundCategory.record": "§eNote Block Music"
 }
