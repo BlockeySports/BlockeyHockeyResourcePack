@@ -93,6 +93,15 @@
             }
         ]
     },
+    "puck.drop": {
+        "subtitle": "Puck drops on ice",
+        "sounds": [
+            {
+                "name": "hockey:puck/drop",
+                "stream": true
+            }
+        ]
+    },
     "puck.glass": {
         "subtitle": "Puck hits glass",
         "sounds": [
