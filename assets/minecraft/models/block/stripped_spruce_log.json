@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/board","textures":{"color":"hockey:board/orange"}}
+{"parent":"block/board","textures":{"color":"hockey:board/orange"}}

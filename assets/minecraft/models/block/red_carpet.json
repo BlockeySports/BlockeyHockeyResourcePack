@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/carpet","textures":{"wool":"hockey:ice/red"}}
+{"parent":"block/carpet","textures":{"wool":"hockey:ice/red"}}
