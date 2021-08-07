@@ -1,1 +1,0 @@
-{"parent":"item/hockey_stick","textures":{"layer0":"hockey:stick/indigo"},"overrides":[{"predicate":{"damage":0.25,"damaged":1},"model":"item/golden_hoe_broken"}]}

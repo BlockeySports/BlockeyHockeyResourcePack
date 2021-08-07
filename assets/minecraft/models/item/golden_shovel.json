@@ -1,1 +1,0 @@
-{"parent":"item/hockey_stick","textures":{"layer0":"hockey:stick/cyan"},"overrides":[{"predicate":{"damage":0.25,"damaged":1},"model":"item/golden_shovel_broken"}]}
