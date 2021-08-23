@@ -6,6 +6,8 @@
 > Options > Video Settings > Quality
 ### Turn Smooth Lighting OFF
 > Options > Video Settings
+### GUI Scale: Above 3
+> Options > Video Settings
 ### OptiFine: Turn OFF Lazy Chunk Loading
 > Options > Performance
 ### Optimal Render Distance: 15
