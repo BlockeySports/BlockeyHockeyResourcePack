@@ -1,1 +1,1 @@
-{"parent":"hockey:npc/npc","textures":{"hair":"hockey:npc/hair/brown","skin":"hockey:npc/skin/beige","shirt":"block/pink_concrete","pants":"hockey:npc/pants/gray"}}
+{"parent":"hockey:npc/npc","textures":{"hair":"hockey:npc/hair/brown","skin":"hockey:npc/skin/beige","shirt":"hockey:concrete/pink","pants":"hockey:npc/pants/gray"}}
