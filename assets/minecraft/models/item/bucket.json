@@ -1,0 +1,1 @@
+{"parent":"item/generated","textures":{"layer0":"item/bucket"},"overrides":[{"predicate":{"custom_model_data":1},"model":"hockey:goalie/glove"},{"predicate":{"custom_model_data":2},"model":"hockey:goalie/glove_puck"}]}
