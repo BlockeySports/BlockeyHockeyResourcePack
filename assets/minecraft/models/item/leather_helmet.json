@@ -1,0 +1,21 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/leather_helmet",
+    "layer1": "item/leather_helmet_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "hockey:stick/1"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "hockey:stick/2"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "hockey:stick/3"
+    }
+  ]
+}
