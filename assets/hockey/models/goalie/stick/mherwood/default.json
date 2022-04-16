@@ -1,0 +1,7 @@
+{
+  "parent": "hockey:skater/stick/default",
+  "textures": {
+    "layer0": "hockey:goalie/stick/overlay",
+    "layer1": "hockey:goalie/stick/mherwood/base"
+  }
+}
