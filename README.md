@@ -1,6 +1,6 @@
 # Important Minecraft Settings
 **For the best playing experience, use the following *highly reccommended* Minecraft settings.** <br>
-**The [Optifine](https://optifine.net/downloads) mod is also extremely encouraged.**
+**The [Optifine](http://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H9.jar) mod is also extremely encouraged.**
 
 ### Connected Textures: `OFF`
 > Options > Video Settings > Quality > Connected Textures
