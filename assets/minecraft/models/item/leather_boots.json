@@ -1,1 +1,17 @@
-{"parent":"item/handheld","textures":{"layer0":"item/leather_boots","layer1":"item/leather_boots_overlay"},"overrides":[{"predicate":{"custom_model_data":1},"model":"hockey:goalie/stick/mauer/default"},{"predicate":{"custom_model_data":2},"model":"hockey:goalie/stick/mherwood/default"},{"predicate":{"custom_model_data":3},"model":"hockey:goalie/stick/mcc/default"},{"predicate":{"custom_model_data":4},"model":"hockey:goalie/stick/marrior/default"},{"predicate":{"custom_model_data":5},"model":"hockey:goalie/stick/reeblok/default"},{"predicate":{"custom_model_data":6},"model":"hockey:goalie/stick/mrue/default"},{"predicate":{"custom_model_data":200},"model":"item/leather_boots"}]}
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/leather_boots"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1000}, "model": "item/gloves/1"},
+		{"predicate": {"custom_model_data":1001}, "model": "item/gloves/2"},
+		{"predicate": {"custom_model_data":1002}, "model": "item/gloves/3"},
+		{"predicate": {"custom_model_data":2001}, "model": "item/apex/basic"},
+		{"predicate": {"custom_model_data":2002}, "model": "item/apex/galaxy"},
+		{"predicate": {"custom_model_data":2003}, "model": "item/apex/fire"},
+		{"predicate": {"custom_model_data":2004}, "model": "item/apex/reaver"},
+		{"predicate": {"custom_model_data":2005}, "model": "item/apex/portal"}
+	]
+}

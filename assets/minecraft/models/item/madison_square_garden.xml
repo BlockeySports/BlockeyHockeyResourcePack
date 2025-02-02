@@ -1,0 +1,91 @@
+<rink min="-658,23,249" max="-588,30,287">
+    <name>Madison Square Garden</name>
+    <description>This is the home arena of the New York Rangers.</description>
+    <team>New York Rangers</team>
+    <location>New York City, New York</location>
+ 
+    <color>#0038A8</color>
+    <icon>golden_apple</icon>
+ 
+    <authors>
+        <author uuid="07db417c-837b-458d-8e93-8fcbfea85548" contribution="Built the arena." />  <!-- Sammythewhale -->
+    </authors>
+ 
+    <contributors>
+        <contributor uuid="07db417c-837b-458d-8e93-8fcbfea85548" contribution="Placed fans and made ice logo." /> <!-- Birdoxd -->
+    </contributors>
+ 
+    <settings>
+        <offside>delayed</offside>
+        <stoppage-music>enabled</stoppage-music>
+        <goal-horn>home</goal-horn>
+        <overtime>enabled</overtime>
+        <crowd>enabled</crowd>
+        <game-style>arcade</game-style>
+    </settings>
+ 
+    <periods>
+        <pregame length="5m" />
+        <regulation length="5m" count="3" />
+        <overtime length="5m" count="oo" />
+        <intermission regulation="1m" first-overtime="1m30s" overtime="1m" />
+    </periods>
+ 
+    <spawns>
+        <spectator loc="-623,39,268" yaw="180" pitch="90" />
+        <away loc="-613,25,284" yaw="180" pitch="0" />
+        <home loc="-633,25,284" yaw="180" pitch="0" />
+    </spawns>
+ 
+    <faceoffs>
+        <faceoff dot="center" loc="-623,25,268" radius="6" zone="neutral" />
+        <faceoff dot="2" loc="-602,25,276" radius="4.25" zone="away" />
+        <faceoff dot="3" loc="-616,25,276" radius="4.25" zone="neutral" />
+        <faceoff dot="4" loc="-630,25,276" radius="4.25" zone="neutral" />
+        <faceoff dot="5" loc="-644,25,276" radius="4.25" zone="home" />
+        <faceoff dot="6" loc="-602,25,260" radius="4.25" zone="away" />
+        <faceoff dot="7" loc="-616,25,260" radius="4.25" zone="neutral" />
+        <faceoff dot="8" loc="-630,25,260" radius="4.25" zone="neutral" />
+        <faceoff dot="9" loc="-644,25,260" radius="4.25" zone="home" />
+    </faceoffs>
+ 
+    <nets>
+        <away side="east" min="-594,25,267" max="-594,26,269" />
+        <home side="west" min="-652,25,267" max="-652,26,269" />
+    </nets>
+ 
+    <goal-lights>
+        <away>
+            <goal-light min="-589,26,266" height="3" />
+            <goal-light min="-589,26,270" height="3" />
+        </away>
+        <home>
+            <goal-light min="-657,26,266" height="3" />
+            <goal-light min="-657,26,270" height="3" />
+        </home>
+    </goal-lights>
+ 
+    <zones> <!-- Include the blue line in regions -->
+        <away side="east" min="-613,25,255" max="-590,25,281" />
+        <home side="west" min="-656,25,255" max="-633,25,281" />
+        <neutral side="neutral" min="-633,25,255" max="-613,25,281" />
+    </zones>
+ 
+    <lines>
+        <red min="-623,25,255" max="-623,25,281" />
+        <away-blue min="-613,25,255" max="-613,25,281" />
+        <away-goal min="-595,25,256" max="-595,25,280" />
+        <home-blue min="-633,25,255" max="-633,25,281" />
+        <home-goal min="-651,25,256" max="-651,25,280" />
+    </lines>
+ 
+    <benches>
+        <away side="south" min="-620,25,283" max="-610,28,285" />
+        <home side="south" min="-636,25,283" max="-626,28,285" />
+    </benches>
+ 
+    <penalty-boxes>
+        <away min="-619,25,251" max="-614,25,253" />
+        <home min="-632,25,251" max="-627,25,253" />
+    </penalty-boxes>
+</rink>
