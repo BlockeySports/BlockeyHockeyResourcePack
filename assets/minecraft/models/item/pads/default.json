@@ -1,0 +1,7 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer1": "custom/cosmetics/goalie/pads/default_static",
+		"layer0": "custom/cosmetics/goalie/pads/default_static"
+	}
+}
