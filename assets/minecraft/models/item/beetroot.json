@@ -1,1 +1,19 @@
-{"parent":"item/handheld","textures":{"layer0":"item/beetroot"},"overrides":[{"predicate":{"custom_model_data":1},"model":"item/logos/hmc"}]}
+{
+  "parent": "item/handheld",
+  "textures": {"layer0": "item/beetroot"},
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/logos/saintsci"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/logos/baronsci"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/logos/royalsci"},
+    {"predicate": {"custom_model_data": 4}, "model": "item/logos/eaglesci"},
+    {"predicate": {"custom_model_data": 5}, "model": "item/logos/bearsci"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/logos/petro"},
+    {"predicate": {"custom_model_data": 7}, "model": "item/logos/worldcupci"},
+    {"predicate": {"custom_model_data": 8}, "model": "item/logos/gophersci"},
+    {"predicate": {"custom_model_data": 9}, "model": "item/logos/ndci"},
+    {"predicate": {"custom_model_data": 10}, "model": "item/logos/michigansci"},
+    {"predicate": {"custom_model_data": 11}, "model": "item/logos/michiganci"},
+    {"predicate": {"custom_model_data": 12}, "model": "item/logos/buci"},
+    {"predicate": {"custom_model_data": 13}, "model": "item/logos/pennstateci"}
+  ]
+}

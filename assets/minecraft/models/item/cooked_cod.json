@@ -1,1 +1,12 @@
-{"parent":"item/handheld","textures":{"layer0":"item/pumpkin_seeds"},"overrides":[{"predicate":{"custom_model_data":1},"model":"item/logos/bearsci"}]}
+{
+    "parent": "item/handheld",
+    "textures": {"layer0": "item/cooked_cod"},
+    "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/logos/crafted"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/logos/barons"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/logos/royals"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/logos/eagles"},
+        {"predicate": {"custom_model_data": 5}, "model": "item/logos/saints"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/logos/bears"}
+    ]
+}

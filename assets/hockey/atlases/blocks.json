@@ -1,0 +1,124 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "block",
+            "prefix": "block/"
+        },
+        {
+            "type": "directory",
+            "source": "item",
+            "prefix": "item/"
+        },
+        {
+            "type": "directory",
+            "source": "arrow",
+            "prefix": "arrow/"
+        },
+        {
+            "type": "directory",
+            "source": "board",
+            "prefix": "board/"
+        },
+        {
+            "type": "directory",
+            "source": "concrete",
+            "prefix": "concrete/"
+        },
+        {
+            "type": "directory",
+            "source": "glass",
+            "prefix": "glass/"
+        },
+        {
+            "type": "directory",
+            "source": "goalie",
+            "prefix": "goalie/"
+        },
+        {
+            "type": "directory",
+            "source": "ice",
+            "prefix": "ice/"
+        },
+        {
+            "type": "directory",
+            "source": "icon",
+            "prefix": "icon/"
+        },
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },
+        {
+            "type": "directory",
+            "source": "net",
+            "prefix": "net/"
+        },
+        {
+            "type": "directory",
+            "source": "npc",
+            "prefix": "npc/"
+        },
+        {
+            "type": "directory",
+            "source": "ref",
+            "prefix": "ref/"
+        },
+        {
+            "type": "directory",
+            "source": "skater",
+            "prefix": "skater/"
+        },
+        {
+            "type": "directory",
+            "source": "stanchion",
+            "prefix": "stanchion/"
+        },
+        {
+            "type": "directory",
+            "source": "trophy",
+            "prefix": "trophy/"
+        },
+        {
+            "type": "directory",
+            "source": "custom",
+            "prefix": "custom/"
+        },
+        {
+            "type": "directory",
+            "source": "environment",
+            "prefix": "environment/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
+        },
+        {
+            "type": "directory",
+            "source": "particle",
+            "prefix": "particle/"
+        },
+        {
+            "type": "directory",
+            "source": "painting",
+            "prefix": "painting/"
+        },
+        {
+            "type": "directory",
+            "source": "mob_effect",
+            "prefix": "mob_effect/"
+        },
+        {
+            "type": "directory",
+            "source": "colormap",
+            "prefix": "colormap/"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "hockey:goalie/stick/default",
+  "textures": {
+    "layer0": "hockey:goalie/stick/finland/base"
+  }
+}
