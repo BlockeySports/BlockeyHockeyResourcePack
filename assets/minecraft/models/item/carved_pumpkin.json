@@ -1,1 +1,36 @@
-{"parent":"item/generated","textures":{"layer0":"item/carved_pumpkin"},"overrides":[{"predicate":{"custom_model_data":1},"model":"block/custom/1"},{"predicate":{"custom_model_data":2},"model":"block/custom/2"},{"predicate":{"custom_model_data":3},"model":"block/custom/3"},{"predicate":{"custom_model_data":4},"model":"block/custom/4"},{"predicate":{"custom_model_data":5},"model":"block/custom/5"},{"predicate":{"custom_model_data":6},"model":"block/custom/6"},{"predicate":{"custom_model_data":7},"model":"block/custom/7"},{"predicate":{"custom_model_data":8},"model":"block/custom/8"},{"predicate":{"custom_model_data":9},"model":"block/custom/9"},{"predicate":{"custom_model_data":10},"model":"block/custom/10"},{"predicate":{"custom_model_data":11},"model":"block/custom/11"},{"predicate":{"custom_model_data":12},"model":"block/custom/12"},{"predicate":{"custom_model_data":13},"model":"block/custom/13"},{"predicate":{"custom_model_data":14},"model":"block/custom/14"},{"predicate":{"custom_model_data":15},"model":"block/custom/15"},{"predicate":{"custom_model_data":16},"model":"block/custom/16"},{"predicate":{"custom_model_data":17},"model":"block/custom/17"},{"predicate":{"custom_model_data":18},"model":"block/custom/18"},{"predicate":{"custom_model_data":19},"model":"block/custom/19"},{"predicate":{"custom_model_data":20},"model":"block/custom/20"},{"predicate":{"custom_model_data":21},"model":"block/custom/21"},{"predicate":{"custom_model_data":22},"model":"block/custom/22"},{"predicate":{"custom_model_data":23},"model":"block/custom/23"}]}
+{
+  "parent": "item/generated",
+  "textures": {"layer0": "item/carved_pumpkin"},
+  "overrides": [
+    {"predicate": {"custom_model_data": 1},  "model": "block/custom/1"},
+    {"predicate": {"custom_model_data": 2},  "model": "block/custom/2"},
+    {"predicate": {"custom_model_data": 3},  "model": "block/custom/3"},
+    {"predicate": {"custom_model_data": 4},  "model": "block/custom/4"},
+    {"predicate": {"custom_model_data": 5},  "model": "block/custom/5"},
+    {"predicate": {"custom_model_data": 6},  "model": "block/custom/6"},
+    {"predicate": {"custom_model_data": 7},  "model": "block/custom/7"},
+    {"predicate": {"custom_model_data": 8},  "model": "block/custom/8"},
+    {"predicate": {"custom_model_data": 9},  "model": "block/custom/9"},
+    {"predicate": {"custom_model_data": 10}, "model": "block/custom/10"},
+    {"predicate": {"custom_model_data": 11}, "model": "block/custom/11"},
+    {"predicate": {"custom_model_data": 12}, "model": "block/custom/12"},
+    {"predicate": {"custom_model_data": 13}, "model": "block/custom/13"},
+    {"predicate": {"custom_model_data": 14}, "model": "block/custom/14"},
+    {"predicate": {"custom_model_data": 15}, "model": "block/custom/15"},
+    {"predicate": {"custom_model_data": 16}, "model": "block/custom/16"},
+    {"predicate": {"custom_model_data": 17}, "model": "block/custom/17"},
+    {"predicate": {"custom_model_data": 18}, "model": "block/custom/18"},
+    {"predicate": {"custom_model_data": 19}, "model": "block/custom/19"},
+    {"predicate": {"custom_model_data": 20}, "model": "block/custom/20"},
+    {"predicate": {"custom_model_data": 21}, "model": "block/custom/21"},
+    {"predicate": {"custom_model_data": 22}, "model": "block/custom/22"},
+    {"predicate": {"custom_model_data": 23}, "model": "block/custom/23"},
+    {"predicate": {"custom_model_data": 24}, "model": "block/custom/24"},
+    {"predicate": {"custom_model_data": 25}, "model": "block/custom/25"},
+    {"predicate": {"custom_model_data": 26}, "model": "block/custom/26"},
+    {"predicate": {"custom_model_data": 27}, "model": "block/custom/27"},
+    {"predicate": {"custom_model_data": 28}, "model": "block/custom/28"},
+    {"predicate": {"custom_model_data": 29}, "model": "block/custom/29"},
+    {"predicate": {"custom_model_data": 30}, "model": "block/custom/30"}
+  ]
+}

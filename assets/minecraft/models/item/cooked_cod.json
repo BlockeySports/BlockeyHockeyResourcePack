@@ -7,6 +7,14 @@
         {"predicate": {"custom_model_data": 3}, "model": "item/logos/royals"},
         {"predicate": {"custom_model_data": 4}, "model": "item/logos/eagles"},
         {"predicate": {"custom_model_data": 5}, "model": "item/logos/saints"},
-        {"predicate": {"custom_model_data": 6}, "model": "item/logos/bears"}
+        {"predicate": {"custom_model_data": 6}, "model": "item/logos/bears"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/logos/canada"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/logos/usa"},
+        {"predicate": {"custom_model_data": 9}, "model": "item/logos/sweden"},
+        {"predicate": {"custom_model_data": 10}, "model": "item/logos/finland"},
+        {"predicate": {"custom_model_data": 11}, "model": "item/logos/czechia"},
+        {"predicate": {"custom_model_data": 12}, "model": "item/logos/switzerland"},
+        {"predicate": {"custom_model_data": 13}, "model": "item/logos/germany"},
+        {"predicate": {"custom_model_data": 14}, "model": "item/logos/russia"}
     ]
 }
